@@ -1,0 +1,18 @@
+{
+    "name": "RideGrow - Premium Vehicle Marketplace",
+    "short_name": "RideGrow",
+    "description": "Premium marketplace for pre-owned cars and bikes in India",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0ea5e9",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
